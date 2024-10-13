@@ -79,5 +79,6 @@ footer{
     font-family: Arial, sans-serif;
   color: #fff;
   text-align: center;
-}
+  min-height: 50px;
+  background: PapayaWhip;
 }
